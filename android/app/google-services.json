@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025169256802",
+    "project_id": "tailor-management-system-8512d",
+    "storage_bucket": "tailor-management-system-8512d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025169256802:android:e37147609ffd1f95413c3b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025169256802-dpd2nm6g279j27pv53j73r6v8f946k6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvFw81K3dNTd0t7ORaG_9kE62sVdVKQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025169256802-dpd2nm6g279j27pv53j73r6v8f946k6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
